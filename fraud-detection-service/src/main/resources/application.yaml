@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: fraud-detection-service
+
+
+
+fraud:
+  max-transactions-per-minute: 5
+  suspicious-amount-multiplier: 3.0
+  max-balance-percentage: 0.90
