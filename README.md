@@ -1,4 +1,5 @@
 # Digital Banking System — Microservices
+Digital Banking Transaction Microservices — A scalable Spring Boot microservices platform for digital banking, enabling secure account management, transaction processing, payments, fraud detection, and event-driven financial workflows using Kafka, Redis, MySQL, and an API Gateway.
 
 
 ## Services Overview
